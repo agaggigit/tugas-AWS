@@ -9,7 +9,7 @@ Pencatatan peminjaman alat di kampus umumnya masih bergantung pada koordinasi da
 
 ## Arsitektur
 
-![Diagram arsitektur](docs/architecture.png)
+![Diagram arsitektur](docs/evidence/architectureDark.png)
 
 **Alur request**
 1. Client mengirim request HTTPS (POST, GET, PUT, DELETE ke `/items`) ke Lambda Function URL dan menerima responsnya.
